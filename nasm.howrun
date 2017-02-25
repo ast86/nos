@@ -1,0 +1,4 @@
+nasm -f bin boot1.asm -o boot1
+
+where -f type of output bin,elf,...
+      -o name of generated binary
